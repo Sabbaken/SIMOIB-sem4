@@ -1,0 +1,6 @@
+# IntellijIdea files
+*.iml
+*/.idea
+*/cmake-build-debug
+out
+tasks/
