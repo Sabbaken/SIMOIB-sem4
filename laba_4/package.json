@@ -1,0 +1,11 @@
+{
+  "name": "AOIS_4",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node --es-module-specifier-resolution=node --experimental-modules script.js"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "type": "module"
+}
